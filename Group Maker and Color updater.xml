@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2021-05-28T22:51:11" showfile="new show 2021-05-28" />
+	<Macro index="0" name="Group Maker and Color updater">
+		<Macroline index="0">
+			<text>SetVar $fixtureid1=(&quot;Whats the first fixture ID?&quot;)</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>SetVar $fixtureid2=(&quot;Whats the Second Fixture ID?&quot;)</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>SetVar $group=(&quot;Which group to store?&quot;)</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>SetVar $groupname=(&quot;Whats the group called?&quot;)</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>SetVar $savingfader=(&quot;Which fader to dim?&quot;)</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>SetVar $availableeffect=(&quot;Where to Store FX?&quot;)</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Fixture $fixtureid1 Thru $fixtureid2</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Store Group $group</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Label Group $group $groupname</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>Group $group</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>At Gel &quot;MA Colors&quot;.&quot;1&quot;</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>Store Preset 4.&quot;WHITE&quot; /merge</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>At Gel &quot;MA Colors&quot;.&quot;2&quot;</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>Store Preset 4.&quot;RED&quot; /merge</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>At Gel &quot;MA Colors&quot;.&quot;3&quot;</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>Store Preset 4.&quot;ORANGE&quot; /merge</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>At Gel &quot;MA Colors&quot;.&quot;4&quot;</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>Store Preset 4.&quot;YELLOW&quot; /merge</text>
+		</Macroline>
+		<Macroline index="18">
+			<text>At Gel &quot;MA Colors&quot;.&quot;5&quot;</text>
+		</Macroline>
+		<Macroline index="19">
+			<text>Store Preset 4.&quot;FERN GREEN&quot; /merge</text>
+		</Macroline>
+		<Macroline index="20">
+			<text>At Gel &quot;MA Colors&quot;.&quot;6&quot;</text>
+		</Macroline>
+		<Macroline index="21">
+			<text>Store Preset 4.&quot;GREEN&quot; /merge</text>
+		</Macroline>
+		<Macroline index="22">
+			<text>At Gel &quot;MA Colors&quot;.&quot;7&quot;</text>
+		</Macroline>
+		<Macroline index="23">
+			<text>Store Preset 4.&quot;SEAGREEN&quot; /merge</text>
+		</Macroline>
+		<Macroline index="24">
+			<text>At Gel &quot;MA Colors&quot;.&quot;8&quot;</text>
+		</Macroline>
+		<Macroline index="25">
+			<text>Store Preset 4.&quot;CYAN&quot; /merge</text>
+		</Macroline>
+		<Macroline index="26">
+			<text>At Gel &quot;MA Colors&quot;.&quot;9&quot;</text>
+		</Macroline>
+		<Macroline index="27">
+			<text>Store Preset 4.&quot;LAVENDER&quot; /merge</text>
+		</Macroline>
+		<Macroline index="28">
+			<text>At Gel &quot;MA Colors&quot;.&quot;10&quot;</text>
+		</Macroline>
+		<Macroline index="29">
+			<text>Store Preset 4.&quot;BLUE&quot; /merge</text>
+		</Macroline>
+		<Macroline index="30">
+			<text>At Gel &quot;MA Colors&quot;.&quot;11&quot;</text>
+		</Macroline>
+		<Macroline index="31">
+			<text>Store Preset 4.&quot;VIOLET&quot; /merge</text>
+		</Macroline>
+		<Macroline index="32">
+			<text>At Gel &quot;MA Colors&quot;.&quot;12&quot;</text>
+		</Macroline>
+		<Macroline index="33">
+			<text>Store Preset 4.&quot;PINK&quot; /merge</text>
+		</Macroline>
+		<Macroline index="34">
+			<text>At Gel &quot;MA Colors&quot;.&quot;13&quot;</text>
+		</Macroline>
+		<Macroline index="35">
+			<text>Store Preset 4.&quot;PINK&quot; /merge</text>
+		</Macroline>
+		<Macroline index="36">
+			<text>Group $group At Full</text>
+		</Macroline>
+		<Macroline index="37">
+			<text>Store Executor $savingfader</text>
+		</Macroline>
+		<Macroline index="38">
+			<text>Appearance Executor $savingfader At Gel &quot;MA Colors&quot;.&quot;2&quot;</text>
+		</Macroline>
+		<Macroline index="39">
+			<text>Assign Toggle ExecButton1 $savingfader</text>
+		</Macroline>
+		<Macroline index="40">
+			<text>Assign &lt;&lt;&lt; ExecButton2 $savingfader</text>
+		</Macroline>
+		<Macroline index="41">
+			<text>Assign &gt;&gt;&gt; ExecButton3 $savingfader</text>
+		</Macroline>
+		<Macroline index="42">
+			<text>Clear</text>
+		</Macroline>
+		<Macroline index="43">
+			<text>Group $group</text>
+			<info>Make DimSin</info>
+		</Macroline>
+		<Macroline index="44">
+			<text>Edit Effect $availableeffect</text>
+		</Macroline>
+		<Macroline index="45">
+			<text>Store Effect 1.$availableeffect.1 /merge</text>
+		</Macroline>
+		<Macroline index="46">
+			<text>Assign Form Sin At Effect $availableeffect</text>
+		</Macroline>
+		<Macroline index="47">
+			<text>Assign Attribute Dim At Effect $availableeffect</text>
+		</Macroline>
+		<Macroline index="48">
+			<text>Assign Effect $availableeffect /lowvalue=0 /highvalue=100 /rate=0.10 /speedgroup=&quot;Dim FX&quot;</text>
+		</Macroline>
+		<Macroline index="49">
+			<text>Label Effect $availableeffect $groupname = &quot;Dimsin&quot;</text>
+		</Macroline>
+		<Macroline index="50">
+			<text>Clear</text>
+		</Macroline>
+		<Macroline index="51">
+			<text>Group $group</text>
+		</Macroline>
+		<Macroline index="52">
+			<text>At Effect $availableeffect</text>
+		</Macroline>
+		<Macroline index="53">
+			<text>Select Executor $savingfader</text>
+		</Macroline>
+		<Macroline index="54">
+			<text>Store Cue 2</text>
+		</Macroline>
+		<Macroline index="55">
+			<text>Label Cue 1 &quot;Static&quot;</text>
+		</Macroline>
+		<Macroline index="56">
+			<text>Label Cue 2 &quot;Chase&quot;</text>
+		</Macroline>
+		<Macroline index="57">
+			<text>Label Executor $savingfader $groupname</text>
+		</Macroline>
+		<Macroline index="58">
+			<text>Select Cue 100</text>
+		</Macroline>
+		<Macroline index="59">
+			<text>Clear</text>
+		</Macroline>
+		<Macroline index="60">
+			<text>Clear</text>
+		</Macroline>
+		<Macroline index="61">
+			<text>Clear</text>
+		</Macroline>
+	</Macro>
+</MA>
