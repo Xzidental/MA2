@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" major_vers="3" minor_vers="9" stream_vers="60">
+	<Info datetime="2021-05-31T21:50:25" showfile="template playground" />
+	<Macro index="56" name="Bump Macro Maker">
+		<Macroline index="0">
+			<text>Move Macro 1 Thru 39 At 100</text>
+			<info>Moves Macro</info>
+		</Macroline>
+		<Macroline index="1">
+			<text>Edit Macro 1</text>
+			<info>Makes Macro</info>
+		</Macroline>
+		<Macroline index="2">
+			<text>Store Macro 1.1.1</text>
+			<info>Makes Line</info>
+		</Macroline>
+		<Macroline index="3">
+			<text>Assign Macro 1.1.1 /CMD=&quot;copy preset 4.1 at 4.30 /nc&quot;</text>
+			<info>Assigns a CMD</info>
+		</Macroline>
+		<Macroline index="4">
+			<text>Edit Macro 2</text>
+			<info>ETC.</info>
+		</Macroline>
+		<Macroline index="5">
+			<text>Store Macro 1.2.1</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Assign Macro 1.2.1 /CMD=&quot;copy preset 4.2 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Edit Macro 3</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Store Macro 1.3.1</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>Assign Macro 1.3.1 /CMD=&quot;copy preset 4.3 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>Edit Macro 4</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>Store Macro 1.4.1</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>Assign Macro 1.4.1 /CMD=&quot;copy preset 4.4 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>Edit Macro 5</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>Store Macro 1.5.1</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>Assign Macro 1.5.1 /CMD=&quot;copy preset 4.5 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>Edit Macro 6</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>Store Macro 1.6.1</text>
+		</Macroline>
+		<Macroline index="18">
+			<text>Assign Macro 1.6.1 /CMD=&quot;copy preset 4.6 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="19">
+			<text>Edit Macro 7</text>
+		</Macroline>
+		<Macroline index="20">
+			<text>Store Macro 1.7.1</text>
+		</Macroline>
+		<Macroline index="21">
+			<text>Assign Macro 1.7.1 /CMD=&quot;copy preset 4.7 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="22">
+			<text>Edit Macro 8</text>
+		</Macroline>
+		<Macroline index="23">
+			<text>Store Macro 1.8.1</text>
+		</Macroline>
+		<Macroline index="24">
+			<text>Assign Macro 1.8.1 /CMD=&quot;copy preset 4.8 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="25">
+			<text>Edit Macro 9</text>
+		</Macroline>
+		<Macroline index="26">
+			<text>Store Macro 1.9.1</text>
+		</Macroline>
+		<Macroline index="27">
+			<text>Assign Macro 1.9.1 /CMD=&quot;copy preset 4.9 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="28">
+			<text>Edit Macro 10</text>
+		</Macroline>
+		<Macroline index="29">
+			<text>Store Macro 1.10.1</text>
+		</Macroline>
+		<Macroline index="30">
+			<text>Assign Macro 1.10.1 /CMD=&quot;copy preset 4.10 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="31">
+			<text>Edit Macro 11</text>
+		</Macroline>
+		<Macroline index="32">
+			<text>Store Macro 1.11.1</text>
+		</Macroline>
+		<Macroline index="33">
+			<text>Assign Macro 1.11.1 /CMD=&quot;copy preset 4.11 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="34">
+			<text>Edit Macro 12</text>
+		</Macroline>
+		<Macroline index="35">
+			<text>Store Macro 1.12.1</text>
+		</Macroline>
+		<Macroline index="36">
+			<text>Assign Macro 1.12.1 /CMD=&quot;copy preset 4.12 at 4.30 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="37">
+			<text>Edit Macro 28</text>
+			<info>Second Bump</info>
+		</Macroline>
+		<Macroline index="38">
+			<text>Store Macro 1.28.1</text>
+		</Macroline>
+		<Macroline index="39">
+			<text>Assign Macro 1.28.1 /CMD=&quot;copy preset 4.1 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="40">
+			<text>Edit Macro 29</text>
+		</Macroline>
+		<Macroline index="41">
+			<text>Store Macro 1.29.1</text>
+		</Macroline>
+		<Macroline index="42">
+			<text>Assign Macro 1.29.1 /CMD=&quot;copy preset 4.2 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="43">
+			<text>Edit Macro 30</text>
+		</Macroline>
+		<Macroline index="44">
+			<text>Store Macro 1.30.1</text>
+		</Macroline>
+		<Macroline index="45">
+			<text>Assign Macro 1.30.1 /CMD=&quot;copy preset 4.3 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="46">
+			<text>Edit Macro 31</text>
+		</Macroline>
+		<Macroline index="47">
+			<text>Store Macro 1.31.1</text>
+		</Macroline>
+		<Macroline index="48">
+			<text>Assign Macro 1.31.1 /CMD=&quot;copy preset 4.4 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="49">
+			<text>Edit Macro 32</text>
+		</Macroline>
+		<Macroline index="50">
+			<text>Store Macro 1.32.1</text>
+		</Macroline>
+		<Macroline index="51">
+			<text>Assign Macro 1.32.1 /CMD=&quot;copy preset 4.5 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="52">
+			<text>Edit Macro 33</text>
+		</Macroline>
+		<Macroline index="53">
+			<text>Store Macro 1.33.1</text>
+		</Macroline>
+		<Macroline index="54">
+			<text>Assign Macro 1.33.1 /CMD=&quot;copy preset 4.6 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="55">
+			<text>Edit Macro 34</text>
+		</Macroline>
+		<Macroline index="56">
+			<text>Store Macro 1.34.1</text>
+		</Macroline>
+		<Macroline index="57">
+			<text>Assign Macro 1.34.1 /CMD=&quot;copy preset 4.7 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="58">
+			<text>Edit Macro 35</text>
+		</Macroline>
+		<Macroline index="59">
+			<text>Store Macro 1.35.1</text>
+		</Macroline>
+		<Macroline index="60">
+			<text>Assign Macro 1.35.1 /CMD=&quot;copy preset 4.8 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="61">
+			<text>Edit Macro 36</text>
+		</Macroline>
+		<Macroline index="62">
+			<text>Store Macro 1.36.1</text>
+		</Macroline>
+		<Macroline index="63">
+			<text>Assign Macro 1.36.1 /CMD=&quot;copy preset 4.9 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="64">
+			<text>Edit Macro 37</text>
+		</Macroline>
+		<Macroline index="65">
+			<text>Store Macro 1.37.1</text>
+		</Macroline>
+		<Macroline index="66">
+			<text>Assign Macro 1.37.1 /CMD=&quot;copy preset 4.10 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="67">
+			<text>Edit Macro 38</text>
+		</Macroline>
+		<Macroline index="68">
+			<text>Store Macro 1.38.1</text>
+		</Macroline>
+		<Macroline index="69">
+			<text>Assign Macro 1.38.1 /CMD=&quot;copy preset 4.11 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="70">
+			<text>Edit Macro 39</text>
+		</Macroline>
+		<Macroline index="71">
+			<text>Store Macro 1.39.1</text>
+		</Macroline>
+		<Macroline index="72">
+			<text>Assign Macro 1.39.1 /CMD=&quot;copy preset 4.12 at 4.31 /nc&quot;</text>
+		</Macroline>
+		<Macroline index="73">
+			<text>Appearance Macro 1 At Gel &quot;MA Colors&quot;.&quot;1&quot;</text>
+			<info>Start Coloring</info>
+		</Macroline>
+		<Macroline index="74">
+			<text>Appearance Macro 2 At Gel &quot;MA Colors&quot;.&quot;2&quot;</text>
+		</Macroline>
+		<Macroline index="75">
+			<text>Appearance Macro 3 At Gel &quot;MA Colors&quot;.&quot;3&quot;</text>
+		</Macroline>
+		<Macroline index="76">
+			<text>Appearance Macro 4 At Gel &quot;MA Colors&quot;.&quot;4&quot;</text>
+		</Macroline>
+		<Macroline index="77">
+			<text>Appearance Macro 5 At Gel &quot;MA Colors&quot;.&quot;5&quot;</text>
+		</Macroline>
+		<Macroline index="78">
+			<text>Appearance Macro 6 At Gel &quot;MA Colors&quot;.&quot;6&quot;</text>
+		</Macroline>
+		<Macroline index="79">
+			<text>Appearance Macro 7 At Gel &quot;MA Colors&quot;.&quot;7&quot;</text>
+		</Macroline>
+		<Macroline index="80">
+			<text>Appearance Macro 8 At Gel &quot;MA Colors&quot;.&quot;8&quot;</text>
+		</Macroline>
+		<Macroline index="81">
+			<text>Appearance Macro 9 At Gel &quot;MA Colors&quot;.&quot;9&quot;</text>
+		</Macroline>
+		<Macroline index="82">
+			<text>Appearance Macro 10 At Gel &quot;MA Colors&quot;.&quot;10&quot;</text>
+		</Macroline>
+		<Macroline index="83">
+			<text>Appearance Macro 11 At Gel &quot;MA Colors&quot;.&quot;11&quot;</text>
+		</Macroline>
+		<Macroline index="84">
+			<text>Appearance Macro 12 At Gel &quot;MA Colors&quot;.&quot;12&quot;</text>
+		</Macroline>
+		<Macroline index="85">
+			<text>Appearance Macro 28 At Gel &quot;MA Colors&quot;.&quot;1&quot;</text>
+		</Macroline>
+		<Macroline index="86">
+			<text>Appearance Macro 29 At Gel &quot;MA Colors&quot;.&quot;2&quot;</text>
+		</Macroline>
+		<Macroline index="87">
+			<text>Appearance Macro 30 At Gel &quot;MA Colors&quot;.&quot;3&quot;</text>
+		</Macroline>
+		<Macroline index="88">
+			<text>Appearance Macro 31 At Gel &quot;MA Colors&quot;.&quot;4&quot;</text>
+		</Macroline>
+		<Macroline index="89">
+			<text>Appearance Macro 32 At Gel &quot;MA Colors&quot;.&quot;5&quot;</text>
+		</Macroline>
+		<Macroline index="90">
+			<text>Appearance Macro 33 At Gel &quot;MA Colors&quot;.&quot;6&quot;</text>
+		</Macroline>
+		<Macroline index="91">
+			<text>Appearance Macro 34 At Gel &quot;MA Colors&quot;.&quot;7&quot;</text>
+		</Macroline>
+		<Macroline index="92">
+			<text>Appearance Macro 35 At Gel &quot;MA Colors&quot;.&quot;8&quot;</text>
+		</Macroline>
+		<Macroline index="93">
+			<text>Appearance Macro 36 At Gel &quot;MA Colors&quot;.&quot;9&quot;</text>
+		</Macroline>
+		<Macroline index="94">
+			<text>Appearance Macro 37 At Gel &quot;MA Colors&quot;.&quot;10&quot;</text>
+		</Macroline>
+		<Macroline index="95">
+			<text>Appearance Macro 38 At Gel &quot;MA Colors&quot;.&quot;11&quot;</text>
+		</Macroline>
+		<Macroline index="96">
+			<text>Appearance Macro 39 At Gel &quot;MA Colors&quot;.&quot;12&quot;</text>
+		</Macroline>
+		<Macroline index="97">
+			<text>Label Macro 1 &quot;Bump White&quot;</text>
+		</Macroline>
+		<Macroline index="98">
+			<text>Label Macro 2 &quot;Bump Red&quot;</text>
+		</Macroline>
+		<Macroline index="99">
+			<text>Label Macro 3 &quot;Bump Orange&quot;</text>
+		</Macroline>
+		<Macroline index="100">
+			<text>Label Macro 4 &quot;Bump Yellow&quot;</text>
+		</Macroline>
+		<Macroline index="101">
+			<text>Label Macro 5 &quot;Bump Fern Grean&quot;</text>
+		</Macroline>
+		<Macroline index="102">
+			<text>Label Macro 6 &quot;Bump Green&quot;</text>
+		</Macroline>
+		<Macroline index="103">
+			<text>Label Macro 7 &quot;Bump Sea Green&quot;</text>
+		</Macroline>
+		<Macroline index="104">
+			<text>Label Macro 8 &quot;Bump Cyan&quot;</text>
+		</Macroline>
+		<Macroline index="105">
+			<text>Label Macro 9 &quot;Bump Lavender&quot;</text>
+		</Macroline>
+		<Macroline index="106">
+			<text>Label Macro 10 &quot;Bump Blue&quot;</text>
+		</Macroline>
+		<Macroline index="107">
+			<text>Label Macro 11 &quot;Bump Violet&quot;</text>
+		</Macroline>
+		<Macroline index="108">
+			<text>Label Macro 12 &quot;Bump Magenta&quot;</text>
+		</Macroline>
+		<Macroline index="109">
+			<text>Label Macro 28 &quot;Bump White&quot;</text>
+		</Macroline>
+		<Macroline index="110">
+			<text>Label Macro 29 &quot;Bump Red&quot;</text>
+		</Macroline>
+		<Macroline index="111">
+			<text>Label Macro 30 &quot;Bump Orange&quot;</text>
+		</Macroline>
+		<Macroline index="112">
+			<text>Label Macro 31 &quot;Bump Yellow&quot;</text>
+		</Macroline>
+		<Macroline index="113">
+			<text>Label Macro 32 &quot;Bump Fern Grean&quot;</text>
+		</Macroline>
+		<Macroline index="114">
+			<text>Label Macro 33 &quot;Bump Green&quot;</text>
+		</Macroline>
+		<Macroline index="115">
+			<text>Label Macro 34 &quot;Bump Sea Green&quot;</text>
+		</Macroline>
+		<Macroline index="116">
+			<text>Label Macro 35 &quot;Bump Cyan&quot;</text>
+		</Macroline>
+		<Macroline index="117">
+			<text>Label Macro 36 &quot;Bump Lavender&quot;</text>
+		</Macroline>
+		<Macroline index="118">
+			<text>Label Macro 37 &quot;Bump Blue&quot;</text>
+		</Macroline>
+		<Macroline index="119">
+			<text>Label Macro 38 &quot;Bump Violet&quot;</text>
+		</Macroline>
+		<Macroline index="120">
+			<text>Label Macro 39 &quot;Bump Magenta&quot;</text>
+		</Macroline>
+	</Macro>
+	<Macro index="57" name="Bump Executer Maker">
+		<Macroline index="0">
+			<text>SetVar $bumpgroup=(&quot;Group?&quot;)</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>SetVar $bumpdests=(&quot;Empty Group Pool&quot;)</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>SetVar $bumpexec=(&quot;Where to Store?&quot;)</text>
+		</Macroline>
+		<Macroline index="3">
+			<text>Group $bumpgroup</text>
+		</Macroline>
+		<Macroline index="4">
+			<text>MAtricksFilter &quot;OddID&quot;</text>
+		</Macroline>
+		<Macroline index="5">
+			<text>Store Group $bumpdests</text>
+		</Macroline>
+		<Macroline index="6">
+			<text>Label Group $bumpdests &quot;Odd Bump Parts&quot;</text>
+		</Macroline>
+		<Macroline index="7">
+			<text>Select Executor $bumpexec</text>
+		</Macroline>
+		<Macroline index="8">
+			<text>Group $bumpdests At Full</text>
+		</Macroline>
+		<Macroline index="9">
+			<text>At Preset 4.30</text>
+		</Macroline>
+		<Macroline index="10">
+			<text>Store Cue 1 /cueonly=true</text>
+		</Macroline>
+		<Macroline index="11">
+			<text>AddVar $bumpdests = 1</text>
+		</Macroline>
+		<Macroline index="12">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="13">
+			<text>Group $bumpgroup</text>
+		</Macroline>
+		<Macroline index="14">
+			<text>MAtricksFilter &quot;EvenID&quot;</text>
+		</Macroline>
+		<Macroline index="15">
+			<text>Store Group $bumpdests</text>
+		</Macroline>
+		<Macroline index="16">
+			<text>Label Group $bumpdests &quot;Even Bump Parts&quot;</text>
+		</Macroline>
+		<Macroline index="17">
+			<text>Group $bumpdests At Full</text>
+		</Macroline>
+		<Macroline index="18">
+			<text>At Preset 4.30</text>
+		</Macroline>
+		<Macroline index="19">
+			<text>Store Cue 2</text>
+		</Macroline>
+		<Macroline index="20">
+			<text>ClearAll</text>
+		</Macroline>
+		<Macroline index="21">
+			<text>Group $bumpgroup At 0</text>
+		</Macroline>
+		<Macroline index="22">
+			<text>At Preset 4.31</text>
+		</Macroline>
+		<Macroline index="23">
+			<text>Store Cue 1.5</text>
+		</Macroline>
+		<Macroline index="24">
+			<text>Group $bumpgroup At 0</text>
+		</Macroline>
+		<Macroline index="25">
+			<text>At Preset 4.31</text>
+		</Macroline>
+		<Macroline index="26">
+			<text>Store Cue 2.5</text>
+		</Macroline>
+		<Macroline index="27">
+			<text>Assign Cue 1.5 + 2.5 /trig=follow /fade=0.5</text>
+		</Macroline>
+		<Macroline index="28">
+			<text>AddVar $bumpgroup = &quot; Bump&quot;</text>
+		</Macroline>
+		<Macroline index="29">
+			<text>Label Executor $bumpexec $bumpgroup</text>
+		</Macroline>
+		<Macroline index="30">
+			<text>ClearAll</text>
+		</Macroline>
+	</Macro>
+</MA>
